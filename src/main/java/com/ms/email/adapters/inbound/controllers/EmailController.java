@@ -1,9 +1,9 @@
-package com.ms.email.controllers;
+package com.ms.email.adapters.inbound.controllers;
 
 
-import com.ms.email.dtos.EmailDto;
-import com.ms.email.models.EmailModel;
-import com.ms.email.services.EmailService;
+import com.ms.email.adapters.inbound.dtos.EmailDto;
+import com.ms.email.application.entities.EmailModel;
+import com.ms.email.application.ports.EmailService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
