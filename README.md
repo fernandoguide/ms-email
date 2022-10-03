@@ -7,4 +7,4 @@ Microservice para envio de email utilizando Spring Email e o servidor SMTP do Gm
 
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=fernandoguide_ms-email&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=fernandoguide_ms-email)
 
-
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=fernandoguide_ms-email&metric=bugs)](https://sonarcloud.io/summary/new_code?id=fernandoguide_ms-email)
